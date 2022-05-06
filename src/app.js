@@ -13,7 +13,7 @@ const teachers = [
     photo:
       "https://www.utec.edu.pe/sites/default/files/pictures/picture-809-1602864936.png",
     linkedin: "https://www.linkedin.com/in/jesubellido/",
-    github: "https://github.com/jbellido19",
+		github: "https://github.com/jbellidoutec",
   },
   {
     id: 1,
@@ -53,7 +53,7 @@ const teachers = [
     photo:
       "https://www.utec.edu.pe/sites/default/files/pictures/picture-810-1603119747.png",
     linkedin: "https://www.linkedin.com/in/yamilet-serrano-llerena-71891591/",
-    github: "https://github.com/yamileth2020",
+    github: "https://github.com/yserranollerena",
   },
 ];
 
